@@ -2,5 +2,5 @@
 
 This is my Django weather app.
 
-
-This is my work
+#Django weather app
+Location wise
